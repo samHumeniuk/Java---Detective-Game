@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=name\ description
+comment0.target=Person(java.lang.String,\ java.lang.String)
+comment0.text=\r\n\ Create\ a\ character\ that\ can\ be\ spoken\ to.\r\n\ \r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ @return\ the\ characters\ name.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getDescription()
+comment2.text=\r\n\ @return\ the\ description\ of\ the\ character.\r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getQuestions()
+comment3.text=\r\n\ @return\ An\ arraylist\ that\ contains\ the\ questions\ that\ the\ character\ can\ be\ asked.\r\n
+comment4.params=question\ answer
+comment4.target=void\ SetConversation(java.lang.String,\ java.lang.String)
+comment4.text=\r\n\ adds\ a\ question\ and\ a\ corresponding\ answer\ to\ the\ list\ of\ questions\ that\ can\ be\ asked.\r\n\ @param\ question\ -\ sets\ the\ question\ that\ is\ asked.\r\n\ @param\ answer\ -\ sets\ the\ responce\ to\ the\ question.\r\n
+comment5.params=
+comment5.target=int\ getNumberOfQuestions()
+comment5.text=\r\n\ @return\ The\ number\ of\ questions\ with\ responces\ that\ the\ character\ has.\r\n
+comment6.params=questionNumber
+comment6.target=java.lang.String\ getQuestion(int)
+comment6.text=\r\n\ @param\ An\ int\ that\ respresents\ a\ certin\ question.\r\n\ @return\ The\ question\ that\ correponds\ with\ the\ question\ number.\r\n
+comment7.params=questionNumber
+comment7.target=java.lang.String\ askQuestion(int)
+comment7.text=\r\n\ @param\ An\ int\ that\ respresents\ a\ certin\ question.\r\n\ @return\ The\ question\ that\ correponds\ with\ the\ question\ number.\r\n
+numComments=8

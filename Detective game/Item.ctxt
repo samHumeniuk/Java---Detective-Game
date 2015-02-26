@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=name\ shortDiscription\ longDiscription\ weight\ visibility
+comment0.target=Item(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ boolean)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Item\r\n\ Assigns\ the\ item's\ parameters\ to\ the\ coresponding\ instance\ variables.\r\n
+comment1.params=
+comment1.target=java.lang.String\ getName()
+comment1.text=\r\n\ Returns\ the\ name\ of\ the\ item.\r\n@return\ the\ name\ of\ the\ item.\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getShortDiscription()
+comment2.text=\r\n\ Returns\ the\ item's\ discription.\r\n@return\ the\ item's\ discription.\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getLongDiscription()
+comment3.text=\r\n\ Returns\ the\ discription\ to\ be\ given\ when\ the\ item\ is\ inspected.\r\n@return\ the\ item's\ long\ discription.\ \r\n
+comment4.params=discription
+comment4.target=void\ setLongDiscription(java.lang.String)
+comment4.text=\r\n\ Sets\ the\ items\ Long\ discription\ to\ the\ specified\ String.\r\n@param\ Requires\ the\ String\ discription.\ \r\n
+comment5.params=
+comment5.target=int\ getWeight()
+comment5.text=\r\n\ Returns\ the\ weight\ of\ the\ current\ Item\r\n@return\ the\ item's\ weight.\ \r\n
+comment6.params=
+comment6.target=boolean\ getVisibility()
+comment6.text=\r\n\ Returns\ the\ true\ if\ the\ item\ will\ be\ displayed\ in\ the\ room\ it\ is\ in.\r\n@return\ the\ item's\ visibility.\ \r\n
+numComments=7
